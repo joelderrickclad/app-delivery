@@ -1,0 +1,6 @@
+c:\users\joel\documents\visual studio 2013\Projects\app-delivery\app-delivery\bin\app-delivery.dll.config
+c:\users\joel\documents\visual studio 2013\Projects\app-delivery\app-delivery\bin\app-delivery.dll
+c:\users\joel\documents\visual studio 2013\Projects\app-delivery\app-delivery\bin\app-delivery.pdb
+c:\users\joel\documents\visual studio 2013\Projects\app-delivery\app-delivery\obj\Debug\app-delivery.csprojResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2013\Projects\app-delivery\app-delivery\obj\Debug\app-delivery.dll
+c:\users\joel\documents\visual studio 2013\Projects\app-delivery\app-delivery\obj\Debug\app-delivery.pdb
